@@ -47,6 +47,7 @@ class Login extends StatelessWidget{
                 }, 
                 child: const Text('Continue')
               ),
+              
             )
           ],
         ),
